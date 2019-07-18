@@ -9,3 +9,4 @@ Domain 1 Threat Management:
 1.4: Explain the purpose of practices used to secure a corporate environment
 
 The CIA Triad(Confidentiality, Integrity, Availability)
+Confidentiality: "ensures the unauthorized individuals are not able to gain access to sensitive information"(pg.3 Chapple & Seidl)
