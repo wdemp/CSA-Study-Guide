@@ -4,3 +4,5 @@ Primary Source will be from the "Comptia CSA+ Study Guide by Mike Chapple and Da
 
 Chapter 1: Defending Against Cybersecurity Threats
 
+Domain 1 Threat Management: 
+1.3
