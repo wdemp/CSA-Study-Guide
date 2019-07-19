@@ -10,3 +10,4 @@ Domain 1 Threat Management:
 
 The CIA Triad(Confidentiality, Integrity, Availability)
 Confidentiality: "ensures the unauthorized individuals are not able to gain access to sensitive information"(pg.3 Chapple & Seidl 2017)
+Confidentiality: ensures unauthorized individual are not able to gain access to sensitive information
