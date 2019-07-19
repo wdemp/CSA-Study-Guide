@@ -11,4 +11,8 @@ Domain 1 Threat Management:
 The CIA Triad(Confidentiality, Integrity, Availability)
 Confidentiality: "ensures the unauthorized individuals are not able to gain access to sensitive information"(pg.3 Chapple & Seidl 2017)
 Confidentiality: ensures unauthorized individual are not able to gain access to sensitive information(pg.3 Chapple & Seidl 2017)
+
+
 Integrity: ensures that there are no unauthorized modifications to information or systems either intentionally or unintentionally (pg.3 Chapple & Seidl 2017)
+
+Availability: "ensures that information and systems to are ready to meet the needs of legitimate users at the time those users requewst them. Availability conrols are: fault tolerance, clustering, and backups, seeks to ensure that legitimate users may gain access as needed."  (pg.3 Chapple & Seidl 2017)
