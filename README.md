@@ -28,4 +28,4 @@ Risk: The combination of a threat and a corresponding vulnerability. Both of the
 
 Identify Threats: 
 All organizations for the most part all test and take preventive measures traditionally against: viruses, malware, spyware, trojans etc. However, certain organization. As are more prone to specific attacks that are geared towards them specifically 
-For example " governemnt sponsored attack 
+For example " governemnt sponsored advanced persistent threats typcially target government agencies, military 
