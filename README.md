@@ -24,3 +24,7 @@ An example of an exploited vulnerability wouild be "A web server that is running
 Threat: "An outside source that may exploit a vulnerability" (pg.4 Chapple & Seidl 2017) This outside source is usually hackers , but in some cases this could be natural diaster related; such as floods, earthquakes, etc. There is obviously nothing a cybersecurity analyst can do about those, however mitigating any hardware/software/ human error will fall upon the Cybersecurity Analyst and other IT related staff.
 
 Risk: The combination of a threat and a corresponding vulnerability. Both of these must be present to classify as risk to the organization. As A result of the chronic rise in threats and vulnerabilities NIST has been publishing many guides to try and guide companies and organizations on how to test, prevent, and conduct risk assessments. 
+
+
+Identify Threats: 
+All organizations for the most part all test and take preventive measures traditionally against: viruses, malware, spyware, trojans etc. 
