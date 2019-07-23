@@ -29,3 +29,5 @@ Risk: The combination of a threat and a corresponding vulnerability. Both of the
 Identify Threats: 
 All organizations for the most part all test and take preventive measures traditionally against: viruses, malware, spyware, trojans etc. However, certain organization. As are more prone to specific attacks that are geared towards them specifically 
 For example " governemnt sponsored advanced persistent threats typcially target government agencies, military organizations, and companies that operate in related fields.
+
+Accidental threats only occur when the proper staff dont perform their daily duties properly. In other words it's usually caused by human error that there is a problem within the organization.  This can range from a system admin accidently deleting a 
