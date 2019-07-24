@@ -31,3 +31,7 @@ All organizations for the most part all test and take preventive measures tradit
 For example " governemnt sponsored advanced persistent threats typcially target government agencies, military organizations, and companies that operate in related fields.
 
 Accidental threats only occur when the proper staff dont perform their daily duties properly. In other words it's usually caused by human error that there is a problem within the organization.  This can range from a system admin accidently deleting a critical disk volume, causing loss of availability. When a Cyber Security Analyst encounters a problem in the organization they must consider everything ranging from brown-out to a hacker, or an accidental unplugging of a vital piece of hardware. The take out message is that you must be able to think outside the box and come to a rationale conclusion based on the problem. 
+
+
+Structural Threats: "This occurs when equipment, software, environmental controls fail due to the exhaustion of resources (such as running out of gas), exceeding their operational capability (such as extreme heat), or simply failing due to age."(pg.6 Chapple & Seidl 2017)
+Environmental threats: occur when natural or man-made disaters occur that are outside the control of the organization. These could include fires, flooding, severe storms, power failures, or widespread telecommunication disruptions.   
