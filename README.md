@@ -34,4 +34,4 @@ Accidental threats only occur when the proper staff dont perform their daily dut
 
 
 Structural Threats: "This occurs when equipment, software, environmental controls fail due to the exhaustion of resources (such as running out of gas), exceeding their operational capability (such as extreme heat), or simply failing due to age."(pg.6 Chapple & Seidl 2017)
-Environmental threats: occur when natural or man-made disaters occur that are outside the control of the organization. These could include fires, flooding, severe storms, power failures, or widespread telecommunication disruptions.   
+Environmental threats: occur when natural or man-made disaters occur that are outside the control of the organization. These could include fires, flooding, severe storms, power failures, or widespread telecommunication disruptions.  The CSA must be able to consider the impact of various threats to the organization.  
