@@ -40,4 +40,4 @@ Identify Vulnerabilities: CSA's must focus on the organization's security effort
 
 Determine Likelihood, Impact, and Risk:
 
-After the CSA has seekd out and determined possible risks to the organization the next steo is to form a plan to remediate them. 
+After the CSA has seekd out and determined possible risks to the company/organization's CIA model.  The next step is to form a plan to remediate them. 
