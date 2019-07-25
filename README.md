@@ -37,3 +37,7 @@ Structural Threats: "This occurs when equipment, software, environmental control
 Environmental threats: occur when natural or man-made disaters occur that are outside the control of the organization. These could include fires, flooding, severe storms, power failures, or widespread telecommunication disruptions.  The CSA must be able to consider the impact of various threats to the organization.  
 
 Identify Vulnerabilities: CSA's must focus on the organization's security effort from both external and internal sources.
+
+Determine Likelihood, Impact, and Risk:
+
+After the CSA has seekd out and determined possible risks to the organization the next steo is to form a plan to remediate them. 
