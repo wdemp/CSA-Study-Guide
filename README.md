@@ -40,4 +40,4 @@ Identify Vulnerabilities: CSA's must focus on the organization's security effort
 
 Determine Likelihood, Impact, and Risk:
 
-After the CSA has seekd out and determined possible risks to the company/organization's CIA model.  The next step is to form a plan to remediate, plan ahead, and predict the outcomes and incoming threats. When considering the likelihood of the risk that it will have on the organization; in addition to the likelihood of it actually happening. In the case of an adversarial threat the CSA needs to determine the likelihood of the adversary actually succeeding 
+After the CSA has seekd out and determined possible risks to the company/organization's CIA model.  The next step is to form a plan to remediate, plan ahead, and predict the outcomes and incoming threats. When considering the likelihood of the risk that it will have on the organization; in addition to the likelihood of it actually happening. In the case of an adversarial threat the CSA needs to determine the likelihood of the adversary actually succeeding in the attack on the organization. 
