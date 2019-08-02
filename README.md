@@ -43,4 +43,4 @@ Determine Likelihood, Impact, and Risk:
 After the CSA has seekd out and determined possible risks to the company/organization's CIA model.  The next step is to form a plan to remediate, plan ahead, and predict the outcomes and incoming threats. When considering the likelihood of the risk that it will have on the organization; in addition to the likelihood of it actually happening. In the case of an adversarial threat the CSA needs to determine the likelihood of the adversary actually succeeding in the attack on the organization. 
 
 Rreviewing Controls:
-CSA professionals use risk management strategies for protecting the organization. The forms of  "Risk" are": risk acceptancem risk avoidance, risk mitigation, and risk transference. 
+CSA professionals use risk management strategies for protecting the organization. The forms of  "Risk" are": risk acceptancem risk avoidance, risk mitigation, and risk transference. In addition the CSA is also responsbile for adivsing on the use of technical controls such as the implenmentation of endpoints and securing networks. 
