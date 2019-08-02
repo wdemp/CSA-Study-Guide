@@ -44,3 +44,5 @@ After the CSA has seekd out and determined possible risks to the company/organiz
 
 Rreviewing Controls:
 CSA professionals use risk management strategies for protecting the organization. The forms of  "Risk" are": risk acceptancem risk avoidance, risk mitigation, and risk transference. In addition the CSA is also responsbile for adivsing on the use of technical controls such as the implenmentation of endpoints and securing networks. 
+Building a Secure Network
+
