@@ -46,3 +46,4 @@ Rreviewing Controls:
 CSA professionals use risk management strategies for protecting the organization. The forms of  "Risk" are": risk acceptancem risk avoidance, risk mitigation, and risk transference. In addition the CSA is also responsbile for adivsing on the use of technical controls such as the implenmentation of endpoints and securing networks. 
 Building a Secure Network: This will involve the proper setting configuration of the NACL. The protection of the network security should be a priority. This will invole some of the following: firewall configurations, NACL configurations, and using deceptive measures for defensive purposes.
 
+Network Access Control
