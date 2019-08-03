@@ -47,3 +47,5 @@ CSA professionals use risk management strategies for protecting the organization
 Building a Secure Network: This will involve the proper setting configuration of the NACL. The protection of the network security should be a priority. This will invole some of the following: firewall configurations, NACL configurations, and using deceptive measures for defensive purposes.
 
 Network Access Control
+
+Utilizing the NACL is one of the most basic forms of securing a network, there are many other layers of protection that must be added to the network but this is a good place
