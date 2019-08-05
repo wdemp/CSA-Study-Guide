@@ -53,4 +53,4 @@ Utilizing the NACL is one of the most basic forms of securing a network, there a
 
 
 Different NAC solutions: 
-Agent based VS Agentless: "Agent Solutions, such as 802.11x, require that the device requesting access to the network
+Agent based VS Agentless: "Agent Solutions, such as 802.11x, require that the device requesting access to the network run special software designed to communicate with the NAC service. Agentless approaches to NAC conduct authentication 
