@@ -54,4 +54,4 @@ Utilizing the NACL is one of the most basic forms of securing a network, there a
 
 Different NAC solutions: 
 Agent based VS Agentless: "Agent Solutions, such as 802.11x, require that the device requesting access to the network run special software designed to communicate with the NAC service. Agentless approaches to NAC conduct authentication in the web browser and do not require special software(pg.9 Chapple & Seidl 2017).
-In-Band vs Out0 of Band: In-band(or incline) NAC solutions use dedicated appliances that sit in between devices and that they wish to access. They deny or limit network access to devices that do not pass the NAC authentication process. the "captive portal" NAC solutions found in hotels that hijack all web requests until the guest enters a 
+In-Band vs Out0 of Band: In-band(or incline) NAC solutions use dedicated appliances that sit in between devices and that they wish to access. They deny or limit network access to devices that do not pass the NAC authentication process. the "captive portal" NAC solutions found in hotels that hijack all web requests until the guest enters a room number aer examples of in-band.
