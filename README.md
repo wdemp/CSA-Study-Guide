@@ -62,4 +62,4 @@ Role: Users amy be assigned to particular network segments based on their role i
 
 Location: "Users may be granted or denied access to network resources based on their physical location."(g.10 Chapple & Seidl 2017). "For example, access to the datacenter network may be limited to systems physically present in the datacenter."(g.10 Chapple & Seidl 2017)
 
-System Health: "
+System Health: "NAC solutions may use agents running 
