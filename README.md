@@ -60,4 +60,4 @@ Time of Day: Users may be authorized to access the network only during specific 
 Role: Users amy be assigned to particular network segments based on their role in the organization. "An example of this would be when a colllege asssigns faculty and staff to an administrative network that may access administrative systems while assigning students to an academic network that does not allow such access"(pg.10 Chapple & Seidl 2017).
 
 
-Location: Users may be granted 
+Location: Users may be granted or denied access to network resources based on their physical location
