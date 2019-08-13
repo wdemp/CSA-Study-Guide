@@ -65,4 +65,4 @@ Location: "Users may be granted or denied access to network resources based on t
 System Health: "NAC solutions may use agents running on devices to obtain configuration information from the device. Devices that fail to meet minimum security standards, such as having incorrectly configured host firewalls, outdated virus definitions, or missing patches, may be either completely denied network access or placed on a special quarantine network where they are granted only the limited access required to update the system's security. Administrators may create NAC(Network Admission Control; a proprietary of Cisco) rules that limit access based on any combination of these characteristics. NAC products produce the flexibility needed to implement the organization's specific security requirements for network admission."(pg.10 Chapple & Seidl 2017).
 
 
-irewalls 
+Firewalls and Network Perimeter Security: 
